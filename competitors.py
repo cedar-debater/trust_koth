@@ -1,2 +1,1 @@
-with os.walk('.'):
-  pass
+import os
