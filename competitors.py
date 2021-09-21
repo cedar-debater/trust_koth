@@ -1,0 +1,2 @@
+with os.walk('.'):
+  pass
